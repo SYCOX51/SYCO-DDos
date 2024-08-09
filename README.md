@@ -13,17 +13,17 @@ This repository contains a Python script that demonstrates a simple DDoS (Distri
 ## Usage
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/SYCOX51/SYCO-DDos.git
    ```
 
 2. **Navigate to the Directory:**
    ```bash
-   cd your-repo
+   cd SYCO-DDos
    ```
 
 3. **Run the Script:**
    ```bash
-   python3 ddos_script.py
+   python3 ddos.py
 
 ## Requirements
 - Python 3.0
